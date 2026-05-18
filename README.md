@@ -2,8 +2,6 @@
 
 Projeto acadêmico desenvolvido para a disciplina de Banco de Dados utilizando PostgreSQL.
 
----
-
 ## 📌 Objetivo
 O sistema foi criado para realizar o gerenciamento de clientes, produtos, pedidos e itens de pedidos, aplicando conceitos de modelagem relacional e regras de negócio no banco de dados.
 
@@ -33,6 +31,12 @@ O sistema foi criado para realizar o gerenciamento de clientes, produtos, pedido
 - JOINs
 - Triggers
 - Functions
+- Consultas SQL
+
+---
+
+## 📸 Modelo do Banco
+(Coloque aqui a imagem do modelo)
 
 ---
 
